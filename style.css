@@ -24,3 +24,87 @@ html {
 	padding: 15px;
 	text-align: center;
 }
+
+.spring {
+	background-color: #c5497a;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.month3{
+	  color: #ffeef6;
+  font-size: 20px;
+}
+
+.month4{
+	  color: #ffeef6;
+  font-size: 20px;
+}
+
+.month5{
+	  color: #ffeef6;
+  font-size: 20px;
+}
+
+
+
+
+.summer {
+	background-color: #f1cc53;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.month6{
+	  color: #6d601f;
+  font-size: 20px;
+}
+
+.month7{
+	  color: #6d601f;
+  font-size: 20px;
+}
+
+.month8{
+	  color: #6d601f;
+  font-size: 20px;
+}
+
+
+
+
+.fall {
+	background-color: #da682f;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.month9{
+	  color: #593a22;
+  font-size: 20px;
+}
+
+.month10{
+	  color: #593a22;
+  font-size: 20px;
+}
+
+.month11{
+	  color: #593a22;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.winter {
+	background-color: #91b9c0;
+	padding: 20px;
+	border-radius: 5px;
+}		
