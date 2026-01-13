@@ -25,6 +25,9 @@ html {
 	text-align: center;
 }
 
+
+
+
 .spring {
 	background-color: #c5497a;
 	padding: 20px;
@@ -32,17 +35,18 @@ html {
 }
 
 .month3{
-	  color: #ffeef6;
+	  color: #fadce8;
   font-size: 20px;
 }
 
+
 .month4{
-	  color: #ffeef6;
+	  color:  #fadce8;
   font-size: 20px;
 }
 
 .month5{
-	  color: #ffeef6;
+	  color:  #fadce8;
   font-size: 20px;
 }
 
@@ -80,25 +84,19 @@ html {
 }
 
 .month9{
-	  color: #593a22;
+	  color: #452710;
   font-size: 20px;
 }
 
 .month10{
-	  color: #593a22;
+	  color: #452710;
   font-size: 20px;
 }
 
 .month11{
-	  color: #593a22;
+	  color: #452710;
   font-size: 20px;
 }
-
-
-
-
-
-
 
 
 
@@ -107,4 +105,19 @@ html {
 	background-color: #91b9c0;
 	padding: 20px;
 	border-radius: 5px;
-}		
+
+.month12{
+	  color: #03515f;
+  font-size: 20px;
+}
+
+.month13{
+	  color: #03515f;
+  font-size: 20px;
+}
+
+.month14{
+	  color: #03515f;
+  font-size: 20px;
+
+}	
